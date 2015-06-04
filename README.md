@@ -1,4 +1,4 @@
-# awesome-editors-ide
+# awesome free and OpenSource editors and IDE
 Various good OpenSource and free editors and IDE
 
 ## Console editors
