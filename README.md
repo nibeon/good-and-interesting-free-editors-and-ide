@@ -43,7 +43,7 @@ Various good OpenSource and free editors and IDE
 
 ## PHP
 
-- CodeLobsterPHPEdition (Editor/IDE, Windows only)
+- CodeLobsterPHPEdition Free Version (Editor/IDE, Windows only)
 - Eclipse PDT
 - CodeLite (IDE)
 - Dev-PHP (IDE, not supported?)
