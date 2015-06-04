@@ -38,6 +38,8 @@ Various good OpenSource and free editors and IDE
 - CodeLite (IDE) - IDE for C/C++/PHP with JavaScript support
 - Relo (IDE)
 - Pelles C
+- Dev-C++
+- Anjuta DevStudio (IDE, linux) - also support Python, Java, JavaScript and Vala
 
 ## PHP
 
@@ -80,6 +82,7 @@ Various good OpenSource and free editors and IDE
 ## .NET, C#, F#
 - SharpDevelop
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
+- QuickSharp
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
@@ -95,6 +98,8 @@ Various good OpenSource and free editors and IDE
 # R , Julia
 
 # Lisp/Scheme
+- DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
 
 # Forth
+
 
