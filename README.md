@@ -38,12 +38,12 @@ Various good OpenSource and free editors and IDE
 - CodeLite (IDE) - IDE for C/C++/PHP with JavaScript support
 - Relo (IDE)
 - Pelles C
-- Dev-C++
+- Dev-C++ (IDE, Windows)
 - Anjuta DevStudio (IDE, linux) - also support Python, Java, JavaScript and Vala
 
 ## PHP
 
-- CodeLobsterPHPEdition (Editor/IDE)
+- CodeLobsterPHPEdition (Editor/IDE, Windows only)
 - Eclipse PDT
 - CodeLite (IDE)
 - Dev-PHP (IDE, not supported?)
