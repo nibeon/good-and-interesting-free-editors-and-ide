@@ -101,7 +101,7 @@ Various good OpenSource and free editors and IDE
 
 # Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
-- LispIDE ( http://www.daansystems.com/lispide/ ) / LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
+- LispIDE ( http://www.daansystems.com/lispide/ ) and LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
 
 # Forth
 
