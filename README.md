@@ -12,7 +12,7 @@ Various good OpenSource and free editors and IDE
 
 - Notepad++
 - Atom
-- GVim
+- GVim (Vim with GUI)
 - jEdit
 - gEdit
 - mEdit (Editor) http://mooedit.sourceforge.net/
@@ -21,6 +21,8 @@ Various good OpenSource and free editors and IDE
 - Zed (Editor)
 - PSPad (Windows only)
 - SciTe
+- Komodo Editor
+- Bluefish
 
 ## Java, Scala
 
@@ -29,7 +31,6 @@ Various good OpenSource and free editors and IDE
 - NetBeans (IDE)
 - drJava
 - Eje (Evyryone java editor)
-- Komodo Editor
 - tIDE (IDE) - http://tide.olympe.in/ lightweight IDE for java
 
 ## C/C++
@@ -74,6 +75,7 @@ Various good OpenSource and free editors and IDE
 ## Haskell
 - EclipseFP
 - Leksah
+- HEAT (The Haskell Educational Advancement Tool)
 
 ## Ocaml, SML
 - Ocaml-Top
@@ -99,6 +101,7 @@ Various good OpenSource and free editors and IDE
 
 # Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
+- LispIDE ( http://www.daansystems.com/lispide/ ) / LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
 
 # Forth
 
