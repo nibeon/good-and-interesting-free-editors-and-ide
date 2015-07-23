@@ -30,7 +30,7 @@ Various good OpenSource and free editors and IDE
 - Intelij IDEA (IDE)
 - NetBeans (IDE)
 - drJava
-- Eje (Evyryone java editor)
+- Eje (Everyone java editor)
 - tIDE (IDE) - http://tide.olympe.in/ lightweight IDE for java
 
 ## C/C++
