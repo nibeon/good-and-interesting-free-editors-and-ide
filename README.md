@@ -100,6 +100,7 @@ Various good OpenSource and free editors and IDE
 # Lua
 - LuaEdit - http://luaedit.sourceforge.net/
 - Zero Brain Studio (IDE)
+- Geany (with plugin)
 
 # R , Julia
 
