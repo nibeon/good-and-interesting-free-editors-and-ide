@@ -10,7 +10,7 @@ Various good OpenSource and free editors and IDE
 
 ## for many languages
 
-- Notepad++
+- Notepad++ (Windows only)
 - Atom
 - GVim (Vim with GUI)
 - jEdit
@@ -23,6 +23,7 @@ Various good OpenSource and free editors and IDE
 - SciTe
 - Komodo Editor
 - Bluefish
+- Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
 
 ## Java, Scala
 
@@ -36,7 +37,7 @@ Various good OpenSource and free editors and IDE
 ## C/C++
 
 - Code::Blocks (IDE) - IDE for C/C++/Fortran
-- CodeLite (IDE) - IDE for C/C++/PHP with JavaScript support
+- CodeLite (IDE) - C/C++/PHP and Web IDE
 - Relo (IDE)
 - Pelles C
 - Dev-C++ (IDE, Windows)
@@ -46,8 +47,7 @@ Various good OpenSource and free editors and IDE
 
 - CodeLobsterPHPEdition Free Version (Editor/IDE, Windows only)
 - Eclipse PDT
-- CodeLite (IDE)
-- Dev-PHP (IDE, not supported?)
+- CodeLite (IDE) - C/C++/PHP and Web IDE
 
 ## Python
 
@@ -57,24 +57,27 @@ Various good OpenSource and free editors and IDE
 - Editra (IDE)
 - DreamPie
 - IDLE
-- PyCharm Community Edition
+- PyCharm Community Edition (IDE)
 - PyDev (plugin for Eclipse)
 
 ## Clojure
 - Clooj
-- NightCode
-- LightTable
+- NightCode (IDE)
+- LightTable (IDE)
 
 ## JavaScript, Node.js
 - NodeEclipse / Enide (plugin for Eclipse)
 - Adobe Brackets
+- Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less, html and some more popular languages)
+- CodeLite (support Node.js)
 
 ## Erlang, Elixir
 - ErlIDE (plugin for Eclipse) http://erlide.org/
+- Adobe Brackets (with elixir plugin)
 
 ## Haskell
 - EclipseFP
-- Leksah
+- Leksah (IDE)
 - HEAT (The Haskell Educational Advancement Tool)
 
 ## Ocaml, SML
@@ -82,9 +85,10 @@ Various good OpenSource and free editors and IDE
 - Enki Editor - support Standard ML, Python, Scheme
 
 ## .NET, C#, F#
-- SharpDevelop
+- SharpDevelop (IDE)
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
-- QuickSharp
+- QuickSharp (IDE)
+- Visual Studio Code (support C# and more popular languages)
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
@@ -95,7 +99,7 @@ Various good OpenSource and free editors and IDE
 
 # Lua
 - LuaEdit - http://luaedit.sourceforge.net/
-- Zero Brain Studio
+- Zero Brain Studio (IDE)
 
 # R , Julia
 
