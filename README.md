@@ -24,6 +24,7 @@ Various good OpenSource and free editors and IDE
 - Komodo Editor
 - Bluefish
 - Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
+- Textadept
 
 ## Java, Scala
 
