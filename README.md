@@ -104,7 +104,8 @@ Various good OpenSource and free editors and IDE
 - Geany (with plugin)
 
 # R , Julia
-- RStudio
+- RStudio - https://www.rstudio.com/ - Powerfull IDE for R
+- Tinn-R - http://sourceforge.net/projects/tinn-r/ - Tinn-R Editor - GUI for R Language and Environment
 
 # Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
