@@ -79,13 +79,13 @@ Various good OpenSource and free editors and IDE
 ## Haskell
 - EclipseFP
 - Leksah (IDE)
-- HEAT (The Haskell Educational Advancement Tool)
+- HEAT (The Haskell Educational Advancement Tool) (not supported?)
 
 ## Ocaml, SML
 - Ocaml-Top
 - Enki Editor - support Standard ML, Python, Scheme
 
-## .NET, C#, F#
+## .NET, C#, F#, etc.
 - SharpDevelop (IDE)
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
 - QuickSharp (IDE)
@@ -104,6 +104,7 @@ Various good OpenSource and free editors and IDE
 - Geany (with plugin)
 
 # R , Julia
+- RStudio
 
 # Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
