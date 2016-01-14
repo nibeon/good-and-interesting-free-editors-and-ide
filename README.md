@@ -49,6 +49,7 @@ Various good OpenSource and free editors and IDE
 - CodeLobsterPHPEdition Free Version (Editor/IDE, Windows only)
 - Eclipse PDT
 - CodeLite (IDE) - C/C++/PHP and Web IDE
+- NetBeans PHP
 
 ## Python
 
