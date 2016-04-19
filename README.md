@@ -8,7 +8,7 @@
 - Nano
 - Joe's Own Editor (joe)
 - mcedit
-- FAR editor
+- FAR manager's editor
 
 ## for many languages
 
