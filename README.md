@@ -3,21 +3,21 @@ Various good OpenSource and free editors and IDE
 
 ## Console editors
 
-- Vim
-- Emacs (editor/IDE)
+- Vi/Vim
 - Nano
-- Joe's Editor (joe)
+- Joe's Own Editor (joe)
 
 ## for many languages
 
 - Notepad++ (Windows only)
 - Atom
 - GVim (Vim with GUI)
+- Emacs (editor/IDE)
 - jEdit
 - gEdit
 - mEdit (Editor) http://mooedit.sourceforge.net/
 - Geany (Editor/IDE)
-- SynWrite (Editor, Windows only) http://sourceforge.net/projects/synwrite/ (IMHO, good alternative to nodepad++)
+- SynWrite (Editor, Windows only) http://sourceforge.net/projects/synwrite/ and CudaText (IMHO, good alternative to nodepad++)
 - Zed (Editor)
 - PSPad (Windows only)
 - SciTe
@@ -63,9 +63,9 @@ Various good OpenSource and free editors and IDE
 - PyDev (plugin for Eclipse)
 
 ## Clojure
-- Clooj
 - NightCode (IDE)
 - LightTable (IDE)
+- Clooj (is no longer developed :( )
 
 ## JavaScript, Node.js
 - NodeEclipse / Enide (plugin for Eclipse)
@@ -91,6 +91,7 @@ Various good OpenSource and free editors and IDE
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
 - QuickSharp (IDE)
 - Visual Studio Code (support C# and more popular languages)
+- Ionide (plugin for Atom and VS Code)
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
@@ -99,20 +100,20 @@ Various good OpenSource and free editors and IDE
 - Ezdit - https://code.google.com/p/ezdit/
 - ASED Tcl/Tk IDE - http://www.tcl-home.de/ased/asedhome.htm
 
-# Lua
+## Lua
 - LuaEdit - http://luaedit.sourceforge.net/
 - Zero Brain Studio (IDE)
 - Geany (with plugin)
 
-# R , Julia
+## R , Julia
 - RStudio - https://www.rstudio.com/ - Powerfull IDE for R
 - Tinn-R - http://sourceforge.net/projects/tinn-r/ - Tinn-R Editor - GUI for R Language and Environment
 
-# Lisp/Scheme
+## Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
 - LispIDE ( http://www.daansystems.com/lispide/ ) and LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
 - Emacs (and clones, e.g. MicroEmacs or nanoEmacs) - support out of the box
 
-# Forth
+## Forth
 
 
