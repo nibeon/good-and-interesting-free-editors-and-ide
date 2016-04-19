@@ -1,11 +1,14 @@
-# awesome free and OpenSource editors and IDE
-Various good OpenSource and free editors and IDE
+# various awesome, good or interesting free and OpenSource editors and IDE
+
+--
 
 ## Console editors
 
 - Vi/Vim
 - Nano
 - Joe's Own Editor (joe)
+- mcedit
+- editor in FAR manager
 
 ## for many languages
 
