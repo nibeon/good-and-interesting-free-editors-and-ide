@@ -28,6 +28,8 @@
 - Bluefish
 - Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
 - Textadept
+- notepoad2 and notepad2-mod
+- fxite 
 
 ## Java, Scala
 
@@ -107,6 +109,7 @@
 - LuaEdit - http://luaedit.sourceforge.net/
 - Zero Brain Studio (IDE)
 - Geany (with plugin)
+- Textadept (it write in Lua)
 
 ## R , Julia
 - RStudio - https://www.rstudio.com/ - Powerfull IDE for R
