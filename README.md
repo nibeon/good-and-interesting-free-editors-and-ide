@@ -111,6 +111,7 @@ Various good OpenSource and free editors and IDE
 # Lisp/Scheme
 - DrRacket (DrScheme) - IDE for Racket (dialect of Scheme)
 - LispIDE ( http://www.daansystems.com/lispide/ ) and LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
+- Emacs (and clones, e.g. MicroEmacs or nanoEmacs) - support out of the box
 
 # Forth
 
