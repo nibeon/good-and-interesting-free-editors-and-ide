@@ -28,7 +28,7 @@
 - Bluefish
 - Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
 - Textadept
-- notepoad2 and notepad2-mod
+- notepad2 and notepad2-mod
 - fxite 
 
 ## Java, Scala
