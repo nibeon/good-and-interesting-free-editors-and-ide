@@ -39,6 +39,7 @@
 - drJava
 - Eje (Everyone java editor)
 - tIDE (IDE) - http://tide.olympe.in/ lightweight IDE for java
+- Silver-J (IDE) - https://sourceforge.net/projects/silver-j/ lightweight IDE for Java 
 
 ## C/C++
 
@@ -108,7 +109,7 @@
 ## Lua
 - LuaEdit - http://luaedit.sourceforge.net/
 - Zero Brain Studio (IDE)
-- Geany (with plugin)
+- Geany (with plugin for development macroses to Geany)
 - Textadept (it write in Lua)
 
 ## R , Julia
