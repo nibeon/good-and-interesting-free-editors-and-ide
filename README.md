@@ -99,7 +99,8 @@
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
 - QuickSharp (IDE)
 - Visual Studio Code (support C# and more popular languages)
-- Ionide (plugin for Atom and VS Code)
+- Ionide (plugin for Atom and VS Code
+- *Ela language* (including IDE) - http://elalang.net/ 
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
