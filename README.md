@@ -41,7 +41,7 @@
 - drJava
 - Eje (Everyone java editor)
 - tIDE (IDE) - http://tide.olympe.in/ lightweight IDE for java
-- Silver-J (IDE) - https://sourceforge.net/projects/silver-j/ lightweight IDE for Java 
+- Silver-J (IDE) - https://sourceforge.net/projects/silver-j/ lightweight IDE for Java written in C#/.NET 
 
 ## C/C++
 
