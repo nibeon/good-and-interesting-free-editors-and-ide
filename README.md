@@ -30,6 +30,8 @@
 - Textadept
 - notepad2 and notepad2-mod
 - fxite 
+- Kate Editor
+- KDevelop
 
 ## Java, Scala
 
