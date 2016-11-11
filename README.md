@@ -9,6 +9,7 @@
 - Joe's Own Editor (joe)
 - mcedit
 - FAR manager's editor
+- Micro
 
 ## for many languages
 
@@ -69,6 +70,7 @@
 - IDLE
 - PyCharm Community Edition (IDE)
 - PyDev (plugin for Eclipse)
+- Ex.Co
 
 ## Clojure
 - NightCode (IDE)
@@ -80,6 +82,7 @@
 - Adobe Brackets
 - Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less, html and some more popular languages)
 - CodeLite (support Node.js)
+- Cats (editor for TypeScript, running over NodeWebkit)
 
 ## Erlang, Elixir
 - ErlIDE (plugin for Eclipse) http://erlide.org/
