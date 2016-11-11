@@ -70,7 +70,12 @@
 - IDLE
 - PyCharm Community Edition (IDE)
 - PyDev (plugin for Eclipse)
-- Ex.Co
+- Ex.Co.
+
+
+## Ruby
+- Aptana Studio
+
 
 ## Clojure
 - NightCode (IDE)
@@ -95,10 +100,11 @@
 
 ## Ocaml, SML
 - Ocaml-Top
-- Enki Editor - support Standard ML, Python, Scheme
+- Enki Editor - support Standard ML, Python, MIT-Scheme
 
 ## .NET, C#, F#, etc.
 - SharpDevelop (IDE)
+- MonoDevelop / XamarinStudio
 - xacc.ide (IDE) https://xacc.wordpress.com/ - support 
 - QuickSharp (IDE)
 - Visual Studio Code (support C# and more popular languages)
@@ -127,6 +133,7 @@
 - LispIDE ( http://www.daansystems.com/lispide/ ) and LispIDE.Net ( https://lispidedotnet.codeplex.com/ )
 - Emacs (and clones, e.g. MicroEmacs or nanoEmacs) - support out of the box
 
-## Forth
+## others
+- WEE (editor for Euphoria language)
 
 
