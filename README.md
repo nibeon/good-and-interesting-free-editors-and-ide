@@ -75,6 +75,7 @@
 
 ## Ruby
 - Aptana Studio
+- IronRuby 1.1 (include Ruby Tools for Visual Studio 2010).
 
 
 ## Clojure
