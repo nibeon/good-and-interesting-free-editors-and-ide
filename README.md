@@ -27,7 +27,7 @@
 - SciTe
 - Komodo Editor
 - Bluefish
-- Visual Sctudio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
+- Visual Studio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
 - Textadept
 - notepad2 and notepad2-mod
 - fxite 
@@ -114,6 +114,8 @@
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
+- PoseidonD - lightweight editor/ide for D http://www.dsource.org/projects/poseidon
+- coedit - another IDE for D http://bbasile.github.io/Coedit/
 
 ## Tcl/Tk
 - Ezdit - https://code.google.com/p/ezdit/
