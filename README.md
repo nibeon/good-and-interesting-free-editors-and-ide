@@ -114,7 +114,7 @@
 
 ## Go, Rust, D
 - LiteIDE - IDE for Go
-- PoseidonD - lightweight editor/ide for D http://www.dsource.org/projects/poseidon
+- PoseidonD - lightweight editor/ide for D https://bitbucket.org/KuanHsu/poseidond (old version at http://www.dsource.org/projects/poseidon )
 - coedit - another IDE for D http://bbasile.github.io/Coedit/
 
 ## Tcl/Tk
