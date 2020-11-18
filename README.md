@@ -25,7 +25,7 @@
 - Zed (Editor)
 - PSPad (Windows only)
 - SciTe
-- Komodo Editor
+- Komodo Editor and Komodo IDE
 - Bluefish
 - Visual Studio Code (Support JavaScript/Node.js, C#, TypeScript, CSS/Sass/Less and html, and syntax highlight for popular languages)
 - Textadept
@@ -37,7 +37,7 @@
 ## Java, Scala
 
 - Eclipse (IDE)
-- Intelij IDEA (IDE)
+- Intelij IDEA Community Edition (IDE)
 - NetBeans (IDE)
 - drJava
 - Eje (Everyone java editor)
@@ -62,6 +62,7 @@
 
 ## Python
 
+- WingIDE Personal Edition
 - IEP (Interactive Editor for Python)
 - PyScripter (Windows only)
 - Eric (IDE) - IDE for Python and Ruby
@@ -75,7 +76,7 @@
 
 ## Ruby
 - Aptana Studio
-- IronRuby 1.1 (include Ruby Tools for Visual Studio 2010).
+- IronRuby 1.1 (include Ruby Tools for Visual Studio 2010) (no longer under development).
 
 
 ## Clojure
@@ -97,16 +98,17 @@
 ## Haskell
 - EclipseFP
 - Leksah (IDE)
-- HEAT (The Haskell Educational Advancement Tool) (not supported?)
+- HEAT (The Haskell Educational Advancement Tool)
 
 ## Ocaml, SML
 - Ocaml-Top
 - Enki Editor - support Standard ML, Python, MIT-Scheme
 
 ## .NET, C#, F#, etc.
+- Waf DotNetPad (simple editor for C# and VB.Net)
 - SharpDevelop (IDE)
 - MonoDevelop / XamarinStudio
-- xacc.ide (IDE) https://xacc.wordpress.com/ - support 
+- xacc.ide (IDE) https://xacc.wordpress.com/ - support (no longer under development)
 - QuickSharp (IDE)
 - Visual Studio Code (support C# and more popular languages)
 - Ionide (plugin for Atom and VS Code
