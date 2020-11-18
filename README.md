@@ -48,7 +48,8 @@
 
 - Code::Blocks (IDE) - IDE for C/C++/Fortran
 - CodeLite (IDE) - C/C++/PHP and Web IDE
-- Relo (IDE)
+- Relo (IDE) (no longer under development)
+- MinGW Developer Studio http://vaultec.mbnet.fi/mingwstudio.php (last version from 2014)
 - Pelles C
 - Dev-C++ (IDE, Windows)
 - Anjuta DevStudio (IDE, linux) - also support Python, Java, JavaScript and Vala
