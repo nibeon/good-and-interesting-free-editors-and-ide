@@ -14,6 +14,7 @@
 ## for many languages
 
 - Notepad++ (Windows only)
+- Notepadqq (GNU/Linux & \*BSD only)
 - Atom
 - GVim (Vim with GUI)
 - Emacs (editor/IDE)
